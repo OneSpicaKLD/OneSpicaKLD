@@ -1,4 +1,4 @@
-# Hi there, I'm [Jean Matthew Cruz] 👋
+# Hi there, I'm Jean Matthew Cruz 👋
 
 ### 🎓 Sophomore Information Systems Student 
 **Kolehiyo ng Lungsod ng Dasmariñas**
@@ -7,11 +7,11 @@ I am a passionate developer focused on building practical, data-driven solutions
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![PHP](https://shields.io)
-![MySQL](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
+### 🛠️ Tech Stack & Tools  
+![Java]
+![PHP]
+![MySQL]
+![JavaScript]
 
 ---
 
@@ -26,10 +26,10 @@ A comprehensive **Inventory and Sales Monitoring System** built for a local sari
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://vercel.app[OneSpicaKLD]&show_icons=true&theme=radical)
+(https://vercel.app[OneSpicaKLD]&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 How to reach me:
-*   **Facebook**: [https://www.facebook.com/onespica]
-*   **Email**: [jmcruz@kld.edu.ph]
+*   **Facebook**: https://www.facebook.com/onespica
+*   **Email**: jmcruz@kld.edu.ph
