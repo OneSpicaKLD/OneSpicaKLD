@@ -8,11 +8,10 @@ I am a passionate developer focused on building practical, data-driven solutions
 ---
 
 ### 🛠️ Tech Stack & Tools  
-![Java]
-![PHP]
-![MySQL]
-![JavaScript]
-
+Java  
+PHP  
+JavaScript  
+MySQL
 ---
 
 ### 🚀 Featured Project: Rodal Store System
