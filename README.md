@@ -11,7 +11,7 @@ I am a passionate developer focused on building practical, data-driven solutions
 Java  
 PHP  
 JavaScript  
-MySQL
+MySQL  
 ---
 
 ### 🚀 Featured Project: Rodal Store System
